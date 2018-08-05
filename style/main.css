@@ -1,0 +1,16 @@
+input {
+    float: left;
+}
+
+ul li {
+    list-style: none;
+}
+
+label {
+    padding-left: 5%;
+    font-size: 150%;
+}
+
+li:nth-child(odd) {
+    background-color: #777;
+}
